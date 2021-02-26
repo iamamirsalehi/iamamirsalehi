@@ -191,3 +191,6 @@
 [2021-02-26 11:04:09.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/55/usr/share/code/resources/app/extensions/image-preview/dist/extension
 [2021-02-26 11:04:42.185] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2183
 [2021-02-26 11:04:47.300] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2182
+[2021-02-26 11:04:59.580] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2182
+[2021-02-26 11:05:04.703] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2186
+[2021-02-26 11:05:09.789] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2190
