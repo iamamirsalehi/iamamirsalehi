@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**iamamirsalehi/iamamirsalehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PHP developer and the framework that develop my projects is Laravel
 
-Here are some ideas to get you started:
+I also love content producing which I publish my videos on [my youtube channel](https://www.youtube.com/channel/UCg02jpgMqzLRSOADZVd0XuQ) and also on [my Instagram](https://www.instagram.com/iamamirsalehi) page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![video](t_video5893303701208042034.gif)
+
+I produce content for [7learn instagram page](https://www.instagram.com/7learn) an academy that I'm a mentor in called [7learn](https://7learn.ac/)
+
+- 🔭 I’m currently working on [tethersale](https://tethersale.com/)
+- 🌱 I’m currently learning Laravel and PHP deeply
+- 💬 Ask me about PHP and Laravel
+- 📫 How to reach me: iamamirsalehi@gmail.com or you can DM on [instagram](https://www.instagram.com/iamamirsalehi)
