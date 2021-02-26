@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PHP developer and the framework that develop my projects is Laravel
+I am a PHP developer and the framework that I develop my projects is Laravel
 
 I also love content producing which I publish my videos on [my youtube channel](https://www.youtube.com/channel/UCg02jpgMqzLRSOADZVd0XuQ) and also on [my Instagram](https://www.instagram.com/iamamirsalehi) page.
 
