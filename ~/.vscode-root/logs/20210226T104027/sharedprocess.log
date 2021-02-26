@@ -1,9 +1,0 @@
-[2021-02-26 10:40:34.097] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/amir/mine/pakcages/iamamirsalehi/~/.vscode-root/User/snippets'
-[2021-02-26 10:40:34.981] [sharedprocess] [info] Deleted from disk mdickin.markdown-shortcuts /root/.vscode/extensions/mdickin.markdown-shortcuts-0.12.0
-[2021-02-26 10:41:13.998] [sharedprocess] [info] Starting to clean up unused language packs.
-[2021-02-26 10:43:41.777] [sharedprocess] [info] Uninstalling extension: alanwalk.markdown-toc
-[2021-02-26 10:43:41.833] [sharedprocess] [info] Successfully uninstalled extension: alanwalk.markdown-toc
-[2021-02-26 10:43:43.284] [sharedprocess] [info] Installing extension: alanwalk.markdown-toc
-[2021-02-26 10:43:44.932] [sharedprocess] [info] Downloaded extension: alanwalk.markdown-toc undefined
-[2021-02-26 10:43:44.972] [sharedprocess] [info] Removed the extension from uninstalled list: alanwalk.markdown-toc
-[2021-02-26 10:43:45.049] [sharedprocess] [info] Extensions installed successfully: alanwalk.markdown-toc

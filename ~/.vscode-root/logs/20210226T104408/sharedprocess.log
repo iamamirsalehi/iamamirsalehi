@@ -1,9 +1,0 @@
-[2021-02-26 10:44:46.308] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
-[2021-02-26 10:44:52.098] [sharedprocess] [info] Starting to clean up unused language packs.
-[2021-02-26 10:44:53.176] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one undefined
-[2021-02-26 10:44:54.240] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.yzhang.markdown-all-in-one-3.4.0: yzhang.markdown-all-in-one
-[2021-02-26 10:44:54.241] [sharedprocess] [info] Renamed to /root/.vscode/extensions/yzhang.markdown-all-in-one-3.4.0
-[2021-02-26 10:44:54.245] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
-[2021-02-26 10:44:54.280] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
-[2021-02-26 10:44:59.237] [sharedprocess] [info] Uninstalling extension: alanwalk.markdown-toc
-[2021-02-26 10:44:59.288] [sharedprocess] [info] Successfully uninstalled extension: alanwalk.markdown-toc
