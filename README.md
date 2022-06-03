@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I am a PHP developer and the framework that I develop my projects is Laravel
+I have always been enthusiastic about new technologies, ideas, and opportunities to learn and build, therefore that brings a
+bright goal for me to keep me focused on this approach to become a software engineer in the future which got me to learn soft
+skills such as teamwork, communication, negotiation and hard skills such as algorithm and data structure, clean code, design
+patterns, and tests. The trust that I have gotten in different companies helped to take the responsibility to solve the problems
+of projects.
 
-I also love content producing which I publish my videos on [my youtube channel](https://www.youtube.com/channel/UCg02jpgMqzLRSOADZVd0XuQ) and also on [my Instagram](https://www.instagram.com/iamamirsalehi) page.
 
-
-I produce content for [7learn instagram page](https://www.instagram.com/7learn) an academy that I'm a mentor in called [7learn](https://7learn.ac/)
-
-- 🔭 I’m currently working on [tethersale](https://tethersale.com/)
-- 🌱 I’m currently learning Laravel and PHP deeply
-- 💬 Ask me about PHP and Laravel
-- 📫 How to reach me: iamamirsalehi@gmail.com or you can DM on [instagram](https://www.instagram.com/iamamirsalehi)
+- 📫 How to reach me: iamamirsalehi@gmail.com
