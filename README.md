@@ -23,6 +23,9 @@ With a strong background in backend engineering, I work across various technolog
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
+### Messaging
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
 ### Architecture & Principles
 ![OOP](https://img.shields.io/badge/OOP-%23blue?style=flat)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%23009639?style=flat)
