@@ -54,10 +54,7 @@ With a strong background in backend engineering, I work across various technolog
 
 - [**software-engineering-patterns**](https://github.com/iamamirsalehi/software-engineering-patterns)  
   Patterns and principles every engineer should know.
-
-- [**pest-tests-examples**](https://github.com/iamamirsalehi/pest-tests-examples)  
-  Practical Laravel testing examples using Pest.
-
+  
 ---
 
 ## 📬 Connect with Me
